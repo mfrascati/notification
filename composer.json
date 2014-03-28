@@ -1,16 +1,16 @@
 {
-    "name": "aschelch/cakephp-notification-plugin",
-    "description": "CakePHP Notification Plugin provide an notification system",
+    "name": "mfrascati/notification",
+    "description": "Custom Notification Plugin",
     "type": "cakephp-plugin",
     "extra": {
         "installer-name": "Notification"
     },
     "keywords": ["cakephp", "plugin", "notification"],
-    "homepage": "https://github.com/aschelch/cakephp-notification-plugin",
+    "homepage": "https://github.com/mfrascati/notification",
     "authors": [
         {
-            "name": "Aurélien Schelcher",
-            "homepage": "http://www.aschelch.fr",
+            "name": "Massimo Frascati",
+            "homepage": "http://www.entheosweb.it",
             "role": "Author"
         }
     ],
